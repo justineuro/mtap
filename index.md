@@ -1,3 +1,28 @@
 # MTAP Reviewers and Past Exams
-## No dates
--[Reviewer for Grade 4 Set 1](https://justineuro.github.io/mtap/gr4/gr4Set1.html) (obtained from [mtap.reviewer.com](http://mtapreviewer.com/2014/02/27/grade-4-mtap-sample-problem-set-1/))
+## Grade 4 Reviewers
+(similar to problems from [mtap.reviewer.com](http://mtapreviewer.com/2014/02/27/grade-4-mtap-sample-problem-set-1/))
+-[Set1-Gr4-1](https://justineuro.github.io/mtap/gr4/mtapGr4RevSet1-2017-11-23-1.html) 
+-[Set1-Gr4-2](https://justineuro.github.io/mtap/gr4/mtapGr4RevSet1-2017-11-23-2.html
+-[Set1-Gr4-3](https://justineuro.github.io/mtap/gr4/mtapGr4RevSet1-2017-11-23-3.html) 
+-[Set1-Gr4-4](https://justineuro.github.io/mtap/gr4/mtapGr4RevSet1-2017-11-23-4.html) 
+-[Set1-Gr4-5](https://justineuro.github.io/mtap/gr4/mtapGr4RevSet1-2017-11-23-5.html) 
+-[Set1-Gr4-6](https://justineuro.github.io/mtap/gr4/mtapGr4RevSet1-2017-11-23-6.html
+-[Set1-Gr4-7](https://justineuro.github.io/mtap/gr4/mtapGr4RevSet1-2017-11-23-7.html) 
+-[Set1-Gr4-8](https://justineuro.github.io/mtap/gr4/mtapGr4RevSet1-2017-11-23-8.html
+-[Set1-Gr4-9](https://justineuro.github.io/mtap/gr4/mtapGr4RevSet1-2017-11-23-9.html) 
+-[Set1-Gr4-10](https://justineuro.github.io/mtap/gr4/mtapGr4RevSet1-2017-11-23-10.html
+-[Set1-Gr4-11](https://justineuro.github.io/mtap/gr4/mtapGr4RevSet1-2017-11-23-11.html) 
+-[Set1-Gr4-12](https://justineuro.github.io/mtap/gr4/mtapGr4RevSet1-2017-11-23-12.html) 
+-[Set1-Gr4-13](https://justineuro.github.io/mtap/gr4/mtapGr4RevSet1-2017-11-23-13.html) 
+-[Set1-Gr4-14](https://justineuro.github.io/mtap/gr4/mtapGr4RevSet1-2017-11-23-14.html
+-[Set1-Gr4-15](https://justineuro.github.io/mtap/gr4/mtapGr4RevSet1-2017-11-23-15.html) 
+-[Set1-Gr4-16](https://justineuro.github.io/mtap/gr4/mtapGr4RevSet1-2017-11-23-16.html) 
+-[Set1-Gr4-17](https://justineuro.github.io/mtap/gr4/mtapGr4RevSet1-2017-11-23-17.html) 
+-[Set1-Gr4-18](https://justineuro.github.io/mtap/gr4/mtapGr4RevSet1-2017-11-23-18.html
+-[Set1-Gr4-19](https://justineuro.github.io/mtap/gr4/mtapGr4RevSet1-2017-11-23-19.html) 
+-[Set1-Gr4-20](https://justineuro.github.io/mtap/gr4/mtapGr4RevSet1-2017-11-23-20.html
+-[Set1-Gr4-21](https://justineuro.github.io/mtap/gr4/mtapGr4RevSet1-2017-11-23-21.html) 
+-[Set1-Gr4-22](https://justineuro.github.io/mtap/gr4/mtapGr4RevSet1-2017-11-23-22.html) 
+-[Set1-Gr4-23](https://justineuro.github.io/mtap/gr4/mtapGr4RevSet1-2017-11-23-23.html) 
+-[Set1-Gr4-24](https://justineuro.github.io/mtap/gr4/mtapGr4RevSet1-2017-11-23-24.html
+)
