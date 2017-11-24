@@ -3,7 +3,7 @@
 (similar to problems from [mtap.reviewer.com](http://mtapreviewer.com/2014/02/27/grade-4-mtap-sample-problem-set-1/))
 
 
-## Set 1
+## Set 1-A (24 versions)
 
 |:--------------:|:--------------:|:--------------:|:--------------:|
 | [Set1-Gr4-1](https://justineuro.github.io/mtap/gr4-1/mtapGr4RevSet1-2017-11-23-1.html) | [Set1-Gr4-2](https://justineuro.github.io/mtap/gr4-1/mtapGr4RevSet1-2017-11-23-2.html) | [Set1-Gr4-3](https://justineuro.github.io/mtap/gr4-1/mtapGr4RevSet1-2017-11-23-3.html) | [Set1-Gr4-4](https://justineuro.github.io/mtap/gr4-1/mtapGr4RevSet1-2017-11-23-4.html) |
@@ -16,7 +16,7 @@
 
 
 
-## Set 2
+## Set 1-B (24 versions)
 
 |:--------------:|:--------------:|:--------------:|:--------------:|
 | [Set2-Gr4-1](https://justineuro.github.io/mtap/gr4-2/mtapGr4RevSet1-2017-11-24-1.html) | [Set2-Gr4-2](https://justineuro.github.io/mtap/gr4-2/mtapGr4RevSet1-2017-11-24-2.html) | [Set2-Gr4-3](https://justineuro.github.io/mtap/gr4-2/mtapGr4RevSet1-2017-11-24-3.html) | [Set2-Gr4-4](https://justineuro.github.io/mtap/gr4-2/mtapGr4RevSet1-2017-11-24-4.html) | 
