@@ -26,3 +26,15 @@
 | [Set1b-Gr4-17](https://justineuro.github.io/mtap/gr4-2/mtapGr4RevSet1-2017-11-24-17.html) | [Set1b-Gr4-18](https://justineuro.github.io/mtap/gr4-2/mtapGr4RevSet1-2017-11-24-18.html) | [Set1b-Gr4-19](https://justineuro.github.io/mtap/gr4-2/mtapGr4RevSet1-2017-11-24-19.html) | [Set1b-Gr4-20](https://justineuro.github.io/mtap/gr4-2/mtapGr4RevSet1-2017-11-24-20.html) | 
 | [Set1b-Gr4-21](https://justineuro.github.io/mtap/gr4-2/mtapGr4RevSet1-2017-11-24-21.html) | [Set1b-Gr4-22](https://justineuro.github.io/mtap/gr4-2/mtapGr4RevSet1-2017-11-24-22.html) |[Set1b-Gr4-23](https://justineuro.github.io/mtap/gr4-2/mtapGr4RevSet1-2017-11-24-23.html) |
 [Set1b-Gr4-24](https://justineuro.github.io/mtap/gr4-2/mtapGr4RevSet1-2017-11-24-24.html) |
+
+
+## Set 1-C (24 versions)
+
+|:--------------:|:--------------:|:--------------:|:--------------:|
+| [Set1c-Gr4-1](https://justineuro.github.io/mtap/gr4-3/mtapGr4RevSet1-2017-11-24-1.html) | [Set1c-Gr4-2](https://justineuro.github.io/mtap/gr4-3/mtapGr4RevSet1-2017-11-24-2.html) | [Set1c-Gr4-3](https://justineuro.github.io/mtap/gr4-3/mtapGr4RevSet1-2017-11-24-3.html) | [Set1c-Gr4-4](https://justineuro.github.io/mtap/gr4-3/mtapGr4RevSet1-2017-11-24-4.html) | 
+| [Set1c-Gr4-5](https://justineuro.github.io/mtap/gr4-3/mtapGr4RevSet1-2017-11-24-5.html) | [Set1c-Gr4-6](https://justineuro.github.io/mtap/gr4-3/mtapGr4RevSet1-2017-11-24-6.html) | [Set1c-Gr4-7](https://justineuro.github.io/mtap/gr4-3/mtapGr4RevSet1-2017-11-24-7.html) | [Set1c-Gr4-8](https://justineuro.github.io/mtap/gr4-3/mtapGr4RevSet1-2017-11-24-8.html) |
+|[Set1c-Gr4-9](https://justineuro.github.io/mtap/gr4-3/mtapGr4RevSet1-2017-11-24-9.html) | [Set1c-Gr4-10](https://justineuro.github.io/mtap/gr4-3/mtapGr4RevSet1-2017-11-24-10.html)| [Set1c-Gr4-11](https://justineuro.github.io/mtap/gr4-3/mtapGr4RevSet1-2017-11-24-11.html) | [Set1c-Gr4-12](https://justineuro.github.io/mtap/gr4-3/mtapGr4RevSet1-2017-11-24-12.html) | 
+| [Set1c-Gr4-13](https://justineuro.github.io/mtap/gr4-3/mtapGr4RevSet1-2017-11-24-13.html) | [Set1c-Gr4-14](https://justineuro.github.io/mtap/gr4-3/mtapGr4RevSet1-2017-11-24-14.html) | [Set1c-Gr4-15](https://justineuro.github.io/mtap/gr4-3/mtapGr4RevSet1-2017-11-24-15.html) |[Set1c-Gr4-16](https://justineuro.github.io/mtap/gr4-3/mtapGr4RevSet1-2017-11-24-16.html) | 
+| [Set1c-Gr4-17](https://justineuro.github.io/mtap/gr4-3/mtapGr4RevSet1-2017-11-24-17.html) | [Set1c-Gr4-18](https://justineuro.github.io/mtap/gr4-3/mtapGr4RevSet1-2017-11-24-18.html) | [Set1c-Gr4-19](https://justineuro.github.io/mtap/gr4-3/mtapGr4RevSet1-2017-11-24-19.html) | [Set1c-Gr4-20](https://justineuro.github.io/mtap/gr4-3/mtapGr4RevSet1-2017-11-24-20.html) | 
+| [Set1c-Gr4-21](https://justineuro.github.io/mtap/gr4-3/mtapGr4RevSet1-2017-11-24-21.html) | [Set1c-Gr4-22](https://justineuro.github.io/mtap/gr4-3/mtapGr4RevSet1-2017-11-24-22.html) |[Set1c-Gr4-23](https://justineuro.github.io/mtap/gr4-3/mtapGr4RevSet1-2017-11-24-23.html) |
+[Set1b-Gr4-24](https://justineuro.github.io/mtap/gr4-3/mtapGr4RevSet1-2017-11-24-24.html) |
